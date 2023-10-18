@@ -1,6 +1,6 @@
 # Relink Protocol - Trustless Chainlink Relaying Service
 
-The Relink team is Chainlink BUILD partner and provides a trustless way to integrate the bluechip oracle provider Chainlink into any smart contract platform.
+The Relink Protocol provides a trustless way to integrate the bluechip oracle provider Chainlink into any smart contract platform.
 
 ### Philosophy
 
